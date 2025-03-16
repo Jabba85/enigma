@@ -6,7 +6,7 @@ As each character is read form the input, it is transformed through a set of rot
 
 Imagine typing the keys on the orginal machine and having the corresponding output light up on above the keyboard
 
-![Enigma](https://en.wikipedia.org/wiki/Bombe#/media/File:EnigmaMachineLabeled.jpg "Enigma Machine")
+![Enigma](enigma.jpg "Enigma Machine")
 
 To reverse the process simply call the Decrypt function.
 
@@ -28,4 +28,6 @@ The security of the system depends on machine settings that were generally chang
 
 Alan Turing and his team at Bletchley Park invented a 'computer' known as the 'Bombe' approx 10 years before the first 'general purpose computer - UNIVAC which was released 1952
 
+![Enigma](bombe.jpg "Enigma Machine")
 
+Enjoy!
